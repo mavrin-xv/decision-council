@@ -1,0 +1,17 @@
+[
+ {"persona": "Skeptical buyer", "trust": 5, "issues": [
+   {"severity": "critical", "quote": "$16 a month", "problem": "Price shown before any reason it is worth it; first thing I see is the number.", "fix": "Lead with 'Roasted the week it ships' and the roast date, price under it."},
+   {"severity": "major", "quote": "Our best coffee", "problem": "Every roaster says this.", "fix": "Name the two origins this month and the roast date."}]},
+ {"persona": "Beginner", "trust": 6, "issues": [
+   {"severity": "major", "quote": "every 6 weeks", "problem": "I do not know if 3 bags last 6 weeks for me.", "fix": "Add 'about 2 cups a day for one person'."},
+   {"severity": "minor", "quote": "single-origin", "problem": "Unknown word.", "fix": "Add 'from one farm'."}]},
+ {"persona": "Busy operator", "trust": 7, "issues": [
+   {"severity": "major", "quote": "Choose your grind, roast, schedule and bag size", "problem": "Four choices before checkout.", "fix": "Default to whole bean, medium, 6 weeks; 'change later' link."}]},
+ {"persona": "Loyal customer", "trust": 4, "issues": [
+   {"severity": "critical", "quote": "New plan for everyone from May", "problem": "Reads like my price goes up now; email says 6 months at old price.", "fix": "'Your price stays $12 until November. New customers only from May.'"}]},
+ {"persona": "Competitor", "trust": 6, "issues": [
+   {"severity": "minor", "quote": "freshest coffee in town", "problem": "Unprovable; easy to attack.", "fix": "Replace with the roast date promise."}]},
+ {"persona": "Technical skeptic", "trust": 6, "issues": [
+   {"severity": "major", "quote": "skip a delivery any time", "problem": "Skip button only works until 2 days before packing; not said.", "fix": "'Skip up to 2 days before we pack.'"},
+   {"severity": "minor", "quote": "Single-origin", "problem": "Capitalised differently on two cards.", "fix": "Use one spelling."}]}
+]

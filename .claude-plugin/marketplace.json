@@ -1,0 +1,15 @@
+{
+  "name": "decision-council",
+  "plugins": [
+    {
+      "name": "decision-council",
+      "source": "./",
+      "description": "One trusted verdict on a business decision: a board of five advisors, an eight-specialist marketing council, blind peer review, chairman synthesis, pre-mortem, persona stress test, evidence-based reality check and a decision log that blocks repeats of killed ideas.",
+      "version": "0.1.0"
+    }
+  ],
+  "owner": {
+    "name": "Artem Mavrin",
+    "url": "https://github.com/mavrin-xv"
+  }
+}

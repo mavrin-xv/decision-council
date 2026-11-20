@@ -1,0 +1,21 @@
+$ decision_log.py list
+2026-03-02  killed      Wholesale to cafes
+2026-04-08  active      New standard plan at 16 dollars  (review 2026-06-01)
+
+$ decision_log.py check "sell our beans wholesale to cafes downtown"
+[KILLED, do not resurface] 2026-03-02 Wholesale to cafes: Do not sell wholesale to cafes this year
+    shared words: cafes, sell, wholesale  [2026-03-02-wholesale-to-cafes.md]
+
+This proposal matches a killed decision. Surface the conflict to the user before acting.
+exit=3
+
+$ decision_log.py due --today 2026-06-02
+DUE 2026-06-01  New standard plan at 16 dollars  kill if: Trial-to-paid below 18% for 2 weeks running after May 1  [2026-04-08-new-standard-plan-at-16-dollars.md]
+1 decision(s) due for review
+
+$ decision_log.py brief
+# Decisions in force
+- [2026-04-08] New standard plan at 16 dollars: From May 1, new customers get 3 bags every 6 weeks for $16. Existing subscribers keep $12 until November 1.
+
+# Do not resurface
+- [2026-03-02] Wholesale to cafes: Two trial cafes paid 60 days late; packing hours doubled

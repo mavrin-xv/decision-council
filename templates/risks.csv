@@ -1,0 +1,2 @@
+risk,likelihood,impact,reversible,tripwire,mitigation,owner
+"Written in past tense, as if it already happened",1-5,1-5,yes|no,"Metric + threshold that warns early","What changes in the plan",Name or role

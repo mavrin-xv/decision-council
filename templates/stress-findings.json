@@ -1,0 +1,5 @@
+[
+  {"persona": "Skeptical buyer", "trust": 0, "issues": [
+    {"severity": "critical|major|minor", "quote": "exact words from the target", "problem": "what goes wrong for this persona", "fix": "replacement text or change"}
+  ]}
+]

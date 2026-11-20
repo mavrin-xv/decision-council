@@ -1,0 +1,67 @@
+[
+ {
+  "reviewer": "R1",
+  "strongest": "D",
+  "blind_spot": "E",
+  "all_missed": "Nobody asked existing subscribers; a 10-person survey costs nothing.",
+  "ranking": [
+   "D",
+   "B",
+   "A",
+   "C",
+   "E"
+  ]
+ },
+ {
+  "reviewer": "R2",
+  "strongest": "D",
+  "blind_spot": "E",
+  "all_missed": "Grandfathering existing customers needs an end date or margin stays at 9% for 410 people.",
+  "ranking": [
+   "D",
+   "A",
+   "B",
+   "C",
+   "E"
+  ]
+ },
+ {
+  "reviewer": "R3",
+  "strongest": "B",
+  "blind_spot": "A",
+  "all_missed": "Weekly split tests with ~40 trials a month will not reach a clear result in 4 weeks.",
+  "ranking": [
+   "B",
+   "D",
+   "C",
+   "E",
+   "A"
+  ]
+ },
+ {
+  "reviewer": "R4",
+  "strongest": "D",
+  "blind_spot": "C",
+  "all_missed": "Shipping could be negotiated or moved to a pickup point at the stall.",
+  "ranking": [
+   "D",
+   "B",
+   "A",
+   "E",
+   "C"
+  ]
+ },
+ {
+  "reviewer": "R5",
+  "strongest": "A",
+  "blind_spot": "E",
+  "all_missed": "No one sized the office plan demand.",
+  "ranking": [
+   "A",
+   "D",
+   "B",
+   "C",
+   "E"
+  ]
+ }
+]

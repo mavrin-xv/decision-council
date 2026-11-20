@@ -1,0 +1,18 @@
+label role                       borda  strongest  blind spot
+D     First Principles              18          3           0
+B     Contrarian                    14          1           0
+A     Executor                      11          1           1
+C     Outsider                       5          0           1
+E     Expansionist                   2          0           3
+
+top answer: D (First Principles), 18 of 20 possible points
+contested (voted both strongest and blind spot): A (Executor)
+
+what all of them missed, per reviewer:
+  - R1: Nobody asked existing subscribers; a 10-person survey costs nothing.
+  - R2: Grandfathering existing customers needs an end date or margin stays at 9% for 410 people.
+  - R3: Weekly split tests with ~40 trials a month will not reach a clear result in 4 weeks.
+  - R4: Shipping could be negotiated or moved to a pickup point at the stall.
+  - R5: No one sized the office plan demand.
+
+The chairman weighs arguments, not this score. Use it to spot where the room split.

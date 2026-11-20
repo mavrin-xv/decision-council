@@ -1,0 +1,27 @@
+# Blind review packet
+
+**Question:** Raise the standard plan from $12 to $18 for new customers from May 1?
+
+You are reviewing anonymous answers. One of them may be yours; judge it like the others.
+Answer three things: which answer has the strongest insight and why, which has the most
+serious blind spot, and what all of them missed. Then rank every label best to worst.
+
+## Answer A
+
+Position: do, as a test. Monday morning: put $16 and $18 versions of the page live for new visitors only, split by week, for 4 weeks. Measure trial-to-paid and first-month cancels. Stop if trial-to-paid falls below 18% on either price. Existing subscribers are not touched during the test.
+
+## Answer B
+
+Position: don't, not at $18. A 50% jump puts Northwind above both competitors ($15, $17) [FACT: competitor pricing pages, March] with no new visible value. Trial-to-paid at 24% [INTERNAL: export] is the number most likely to fall, and the founders have no ad budget to refill the top. If conversion drops to 16%, the price gain is gone within two quarters. What would change my mind: a pre-sale where 30+ strangers pay $18. The question you are avoiding is: why is margin 9% in the first place?
+
+## Answer C
+
+Position: don't yet. As a new visitor I see $18 and compare with the supermarket. Nothing on the page tells me why it is worth more: no roast date, no origin story, no 'cancel anytime'. As a customer, my first question is: what do I get for $18 that I don't get for $12 somewhere else?
+
+## Answer D
+
+Position: do differently. The problem is not price, it is cost per box: shipping rose from $3.10 to $4.40 [INTERNAL]. Two bags a month in one box is the expensive unit. Rebuild: offer 3 bags every 6 weeks, or charge shipping separately on the base plan. Redrawn decision: fix unit cost first, then set price to the market middle ($15-16).
+
+## Answer E
+
+Position: do, and add a tier. Keep $12 as a one-bag plan, launch $18 as a two-bag plan with a rotating single-origin bag and roaster notes. Offices near the market stall are an untested buyer [HYPOTHESIS]. The bigger version is: a $45 office plan with 5 bags, same packing work per box.

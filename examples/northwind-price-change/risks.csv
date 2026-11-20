@@ -1,0 +1,6 @@
+risk,likelihood,impact,reversible,tripwire,mitigation,owner
+New-visitor conversion fell after the price change and the founders had no ads to refill the top,3,4,yes,Trial-to-paid below 18% for 2 weeks running,Change price for new visitors only; keep old page ready to restore,Founder A
+Customers read the new 3-bag plan as a price hike and cancelled,3,3,yes,Cancels above 8% in the month after the email,Email explains shipping cost with numbers; 6 months at old price,Founder B
+The courier raised rates again mid-year and margin went back under 10%,2,4,no,Courier notice of new rates,Quote a second courier before May 1; pickup option at the market stall,Founder A
+The packing change (3 bags every 6 weeks) confused the schedule and boxes went out late,3,3,yes,More than 5 late boxes in a cycle,Pack test orders on the new schedule for 1 cycle first,Founder B
+Office plan distracted the founders from the core plan,2,2,yes,,,

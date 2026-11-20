@@ -1,0 +1,9 @@
+OK   (must) $16 plan shows for new visitors only  <- screenshot new-visitor-375px.png, logged-in view old-price-375px.png
+OK   (must) Existing subscribers still billed $12  <- test renewal invoice #T-0412 shows $12.00
+OK   (must) Checkout works on a phone  <- test order T-0415 placed at 375px width
+OPEN Confirmation email shows the roast date
+WEAK Skip button note says "2 days before we pack"  <- tested
+FAIL Discount code still applies to the new plan  <- code WELCOME5 gave $5 off on $16 plan, should be blocked
+
+3/6 verified, 1 failed, 1 with words instead of evidence
+STATUS: NEEDS WORK

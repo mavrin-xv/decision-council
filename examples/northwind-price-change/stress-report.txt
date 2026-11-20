@@ -1,0 +1,33 @@
+
+## CRITICAL (2)
+- "$16 a month": Price shown before any reason it is worth it; first thing I see is the number. [found by Skeptical buyer]
+  fix: Lead with 'Roasted the week it ships' and the roast date, price under it.
+- "New plan for everyone from May": Reads like my price goes up now; email says 6 months at old price. [found by Loyal customer]
+  fix: 'Your price stays $12 until November. New customers only from May.'
+
+## MAJOR (4)
+- "Our best coffee": Every roaster says this. [found by Skeptical buyer]
+  fix: Name the two origins this month and the roast date.
+- "every 6 weeks": I do not know if 3 bags last 6 weeks for me. [found by Beginner]
+  fix: Add 'about 2 cups a day for one person'.
+- "Choose your grind, roast, schedule and bag size": Four choices before checkout. [found by Busy operator]
+  fix: Default to whole bean, medium, 6 weeks; 'change later' link.
+- "skip a delivery any time": Skip button only works until 2 days before packing; not said. [found by Technical skeptic]
+  fix: 'Skip up to 2 days before we pack.'
+
+## MINOR (2)
+- "single-origin": Unknown word. [found by Beginner, Technical skeptic]
+  fix: Add 'from one farm'.
+- "freshest coffee in town": Unprovable; easy to attack. [found by Competitor]
+  fix: Replace with the roast date promise.
+
+## TRUST
+- Skeptical buyer: 5/10
+- Beginner: 6/10
+- Busy operator: 7/10
+- Loyal customer: 4/10
+- Competitor: 6/10
+- Technical skeptic: 6/10
+- average: 5.7/10
+
+VERDICT: REVISE (2 critical, 4 major, 2 minor)

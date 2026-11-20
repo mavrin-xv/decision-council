@@ -1,0 +1,6 @@
+stakes: 15 (tier high, reversible, 4 moving parts)
+run, in order:
+  1. board-of-advisors
+  2. pre-mortem plan mode
+  3. decision-log
+approx. model calls: 15
